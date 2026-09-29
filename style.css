@@ -16,9 +16,7 @@
 }
 
 .wiki-logo {
-    width: 150px;
-    margin-bottom: 30px;
-}
+    width: 60px; height: 80px; object-fit: contain; margin-bottom: 15px;}
 
 .search-input {
     font-size: 18px;
